@@ -9,7 +9,7 @@ def read(fname):
 
 setup(
     name='Flask-Bootstrap4',
-    version='4.0.2',
+    version='4.1.3',
     license='BSD',
     description='An extension that includes Bootstrap in your '
     'project, without any boilerplate code.',
