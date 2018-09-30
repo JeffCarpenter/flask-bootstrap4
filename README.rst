@@ -1,9 +1,6 @@
-===============
+================
 Flask-Bootstrap
-===============
-
-.. image:: https://travis-ci.org/mbr/flask-bootstrap.png?branch=master
-   :target: https://travis-ci.org/mbr/flask-bootstrap
+================
 
 Flask-Bootstrap packages `Bootstrap
 <http://getbootstrap.com>`_ into an extension that mostly consists
@@ -27,3 +24,9 @@ bootstrap resources, and have predefined blocks where you can put your content.
 As of version 3, Flask-Bootstrap has a `proper documentation
 <http://pythonhosted.org /Flask-Bootstrap>`_, which you can check for more
 details.
+
+------------
+
+:Authors: `Marc Brinkmann`_ and `Joe Black`_
+.. _`Joe Black`: https://github.com/joeblackwaslike
+.. _`Marc Brinkmann`: https://github.com/mbr
