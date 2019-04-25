@@ -19,10 +19,10 @@ else:
 
 from .forms import render_form
 
-__version__ = '4.1.3'
+__version__ = '4.3.1'
 BOOTSTRAP_VERSION_RE = re.compile(r'(\d+\.\d+\.\d+(\-[a-z]+)?)')
-POPPER_VERSION = '1.12.9'
-JQUERY_VERSION = '3.2.1'
+POPPER_VERSION = '1.14.7'
+JQUERY_VERSION = '3.3.1'
 
 
 def get_bootstrap_version(version):
